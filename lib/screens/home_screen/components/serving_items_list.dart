@@ -2,18 +2,18 @@ import 'serving_item.dart';
 
 const servingItems = [
   ServingItem(
-    title: "Sippy Cups",
-    text: "Are the new norm for iced coffee",
-    imgUrl: "assets/images/sippy_cups.png",
+    title: "Cheese Sozis Fries",
+    text: "2 pcs Sosis sapi goreng",
+    imgUrl: "assets/images/Cheese_Sozis_Fries.png",
   ),
   ServingItem(
-    title: "Donut",
-    text: "Have a donut with the frappuccinno",
-    imgUrl: "assets/images/donut.png",
+    title: "Croissant Chocolate",
+    text: "Croissant dengan topping selai Coklat",
+    imgUrl: "assets/images/Croissant_Chocolate.png",
   ),
   ServingItem(
-    title: "Cookies",
-    text: "Enjoy our sugar free cookies",
-    imgUrl: "assets/images/cookies.png",
+    title: "Milkshake Strawberry",
+    text: "Milkshake rasa strawberry",
+    imgUrl: "assets/images/Milkshake_Strawberry1.png",
   ),
 ];

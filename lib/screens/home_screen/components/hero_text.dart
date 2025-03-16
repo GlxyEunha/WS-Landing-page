@@ -33,7 +33,7 @@ class BuyNowButton extends StatelessWidget {
       width: 150.0,
       height: 50.0,
       decoration: BoxDecoration(
-        color: Colors.black87,
+        color: const Color.fromARGB(221, 255, 255, 255),
         borderRadius: BorderRadius.circular(40.0),
       ),
       child: Row(
@@ -42,7 +42,7 @@ class BuyNowButton extends StatelessWidget {
           Text(
             "Buy now",
             style: TextStyle(
-              color: Colors.white,
+              color: const Color.fromARGB(255, 0, 0, 0),
               fontSize: 16.0,
               // fontWeight: FontWeight.bold,
             ),
@@ -82,7 +82,7 @@ class AboutCappucino extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return AutoSizeText(
-      "The Midnight Mint Mocha Frappuccino features extra dark cocoa blended with Frappuccino Roast coffee.",
+      "Steak daging sapi yang lembut dan kaya protein di olah dengan cara di grill / dipanggang. Disajikan dengan kentang lokal, mix vegetable, mushroom dan brown sauce khas waroeng.",
       style: TextStyle(
         color: Colors.black,
         fontSize: 18.0,
@@ -99,7 +99,7 @@ class CappucinoTitle extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return const AutoSizeText(
-      "Midnight\nFrappuccino",
+      "Beef Steak",
       maxLines: 2,
       style: TextStyle(
         color: Colors.black,

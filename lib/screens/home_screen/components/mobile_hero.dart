@@ -28,7 +28,7 @@ class MobileHero extends StatelessWidget {
                 circleRadius: width * 0.35,
                 imageHeight: height * 0.6,
                 imageWidth: width * 0.38,
-                bottom: 50,
+                // bottom: 50,
               ),
             ),
             const CappucinoTitle(),

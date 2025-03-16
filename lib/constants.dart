@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-const kBackgroundColor = Color.fromARGB(255, 245, 241, 215);
+const kBackgroundColor = Color.fromARGB(255, 250, 208, 208);
 const kDesktopWidth = 1000;
 const kTabletWidth = 600;
 
